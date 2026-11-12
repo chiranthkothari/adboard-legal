@@ -1,0 +1,4 @@
+.DS_Store
+replay_pid*.log
+hs_err_pid*.log
+*.hprof

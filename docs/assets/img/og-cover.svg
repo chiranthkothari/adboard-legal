@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" rx="0" fill="#0E0F10"/>
+<circle cx="980" cy="120" r="320" fill="#FFD60A" opacity="0.10"/>
+<circle cx="180" cy="560" r="260" fill="#8AB4F8" opacity="0.08"/>
+<rect x="80" y="80" width="104" height="104" rx="26" fill="#FFD60A"/>
+<rect x="112" y="115" width="12" height="34" rx="4" fill="#101112"/>
+<rect x="130" y="98" width="12" height="51" rx="4" fill="#101112"/>
+<rect x="148" y="128" width="12" height="21" rx="4" fill="#101112"/>
+<text x="208" y="148" font-family="Arial,sans-serif" font-size="52" font-weight="bold" fill="#F1F3F4" letter-spacing="-1">AdBoard</text>
+<text x="80" y="300" font-family="Arial,sans-serif" font-size="76" font-weight="bold" fill="#F1F3F4" letter-spacing="-2">Know what your ads earned.</text>
+<text x="80" y="392" font-family="Arial,sans-serif" font-size="76" font-weight="bold" fill="#FFD60A" letter-spacing="-2">And why it changed.</text>
+<text x="80" y="452" font-family="Arial,sans-serif" font-size="30" fill="#A7ADB4">Read-only AdMob analytics for Android</text>
+<rect x="80" y="492" width="300" height="64" rx="32" fill="#FFD60A"/>
+<text x="230" y="533" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#101112" text-anchor="middle">Get it on Google Play</text>
+<rect x="880" y="130" width="220" height="440" rx="48" fill="#050607" stroke="#34373B" stroke-width="2"/>
+<rect x="892" y="142" width="196" height="416" rx="38" fill="#1B1C1F"/>
+<text x="912" y="182" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#F1F3F4">AdBoard</text>
+<rect x="912" y="200" width="160" height="86" rx="16" fill="#242629"/>
+<text x="926" y="226" font-family="Arial,sans-serif" font-size="13" fill="#A7ADB4">Estimated earnings</text>
+<text x="926" y="260" font-family="Arial,sans-serif" font-size="34" font-weight="bold" fill="#F1F3F4">$1,284.60</text>
+<path d="M912,320 C950,316 980,296 1010,298 S1050,312 1072,304" stroke="#FFD60A" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>

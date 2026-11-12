@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Delete your data — AdBoard</title>
+  <meta name="description" content="How to delete AdBoard local data and request deletion of subscription verification data.">
+  <link rel="stylesheet" href="assets/css/tokens.css">
+  <link rel="stylesheet" href="assets/css/app.css">
+  <link rel="stylesheet" href="assets/css/sections.css">
+</head>
+<body>
+  <main class="container" style="max-width:760px;padding:80px 0">
+    <p><a class="text-link" href="./">← Back to AdBoard</a></p>
+    <h1 style="margin-top:16px">Delete your data</h1>
+    <p class="lead" style="margin-top:12px">AdBoard is a read-only AdMob analytics app. We do not create an AdBoard account. This page explains how to delete the data the app and its subscription backend hold.</p>
+
+    <h2 style="margin-top:36px">Delete AdMob data and local app data</h2>
+    <ol style="margin-top:14px;display:grid;gap:10px;color:var(--muted);font-size:15px;line-height:1.65;padding-left:22px">
+      <li>Open AdBoard.</li>
+      <li>Go to <strong>More → Accounts</strong> and disconnect the AdMob account. This revokes the app's Google OAuth access and deletes the local AdMob cache, saved reports, alert history and widget data.</li>
+      <li>Alternatively, uninstall AdBoard or clear its app data in Android Settings. This removes all local data from the device.</li>
+    </ol>
+
+    <h2 style="margin-top:36px">Request deletion of subscription verification data</h2>
+    <p style="margin-top:14px;color:var(--muted);font-size:15px;line-height:1.65">When you buy AdBoard Pro, our verification backend stores a SHA-256 hash of your Google Play purchase token, the subscription product and state, and expiry dates. It does not store your name, email, payment card details or AdMob reporting data.</p>
+    <p style="margin-top:14px;color:var(--muted);font-size:15px;line-height:1.65">To request deletion of this record, email <a href="mailto:chiranthvinod96@gmail.com?subject=AdBoard%20data%20deletion%20request" style="text-decoration:underline">chiranthvinod96@gmail.com</a> with the subject “AdBoard data deletion request”. Include the Google Play account email you used to subscribe. We will delete the record within 30 days and confirm by email.</p>
+    <p style="margin-top:14px;color:var(--muted);font-size:15px;line-height:1.65">If you have an active subscription, deleting the backend record does not cancel the subscription. Cancel it in Google Play under <strong>Payments &amp; subscriptions</strong>. Google Play keeps its own purchase and payment records under Google's policies.</p>
+
+    <h2 style="margin-top:36px">What is kept</h2>
+    <ul style="margin-top:14px;display:grid;gap:10px;color:var(--muted);font-size:15px;line-height:1.65;padding-left:22px">
+      <li>Aggregated, non-identifying service logs may be retained for security and reliability for up to 30 days.</li>
+      <li>Records that we must keep for legal, tax or fraud-prevention obligations may be retained for the period required by law.</li>
+      <li>Google Play, Google AdMob and Google Sign-In retain data under their own privacy policies.</li>
+    </ul>
+
+    <p style="margin-top:28px;color:var(--muted)">Contact: <a href="mailto:chiranthvinod96@gmail.com" style="text-decoration:underline">chiranthvinod96@gmail.com</a></p>
+  </main>
+</body>
+</html>
